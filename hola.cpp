@@ -8,7 +8,7 @@ int main()fdsfsd
 	
 	string name;
 	cin>>name;
-	cout<<name<<endl;
+	cout<<namefds<<endl;
 	return 0;
 
 }fdsfsdfsd
